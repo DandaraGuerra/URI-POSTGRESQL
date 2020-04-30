@@ -1,2 +1,2 @@
 # URI-POSTGRESQL
-Resoluções de exercícios de SQL do URI
+Resoluções dos exercícios de SQL do URI Online Judge (https://www.urionlinejudge.com.br/).
